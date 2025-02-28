@@ -1,0 +1,148 @@
+.btn-r{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: red;
+    font-weight: bold;
+    transition: transform 0.2s ;
+}
+.btn-b{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: blue;
+     font-weight: bold;
+     transition: transform 0.2s ;
+    
+}
+.btn-g{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: green;
+     font-weight: bold;
+     transition: transform 0.2s ;
+    
+}
+.btn-y{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: yellow;
+     font-weight: bold;
+     transition: transform 0.2s ;
+    
+}
+.btn-gr{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: gray;
+     font-weight: bold;
+    
+}
+.btn-o{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: orange;
+     font-weight: bold;
+     transition: transform 0.2s ;
+    
+}
+.btn-p{
+    border: 1px ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    background-color: purple;
+     font-weight: bold;
+     transition: transform 0.2s ;
+    
+}
+
+
+.b:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.btn-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 250px 100px;
+    gap: 10px;
+
+}
+
+.marquee-container {
+    background: lightgray;
+    padding: 10px 0;
+}
+
+.marquee-text {
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+            
+
+
+.c{
+    color: rgb(255, 47, 57);
+}
+.l{
+    color: blueviolet;
+}
+.i{
+    color: rgb(210, 102, 30);
+}
+.k{
+    color: darkgreen;
+}
+.y{
+    color: darkgoldenrod;
+}
+.o{
+    color: firebrick;
+}
+.u{
+    color: darkturquoise;
+}
+.r{
+    color: hotpink;
+}
+.f{
+    color: yellowgreen
+}
+.a{
+    color: teal
+}
+.v{
+    color: ;
+}
+.o{
+    color: ;
+}
+.r{
+    color: ;
+}
+.i{
+    color: ;
+}
+.t{
+    color: ;
+}
+.e{
+    color: ;
+}
